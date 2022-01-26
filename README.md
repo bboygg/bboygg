@@ -1,4 +1,4 @@
-![thumnail](Ddukbaegi.jpg)
+![thumnail](Ddukbaegi.JPG)
 
 
 
