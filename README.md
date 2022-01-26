@@ -1,4 +1,4 @@
-![thumnail](/Ddukbaegi)
+![thumnail](Ddukbaegi)
 
 
 
