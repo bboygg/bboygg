@@ -1,10 +1,12 @@
-Welcome to my repository👋
+### Annyeonghaseyo 👋
 
-I'm QA engineer in Korea
+### About Me
 
-Working on Test Automation
+I like Break-dance, Cleaning my room, and coding with cup of coffee.
 
-![thumnail](Ddukbaegi.JPG)
+![windmill](./ballHoldingWidmill.gif)
+
+
 
 
 
